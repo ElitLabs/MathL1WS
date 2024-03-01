@@ -1,4 +1,4 @@
-# Simple Calculations 
+# Simple Calculations - Python
 
 ## Instructions: 
  - Get two integers as an input from the user and complete the following mathematical calculations.
@@ -12,6 +12,8 @@
 | Integer Division 	| //   	|
 | Remainder        	| %    	|
 | Exponentiation   	| **   	|
+
+ - Try inputting 0.1 and 0.2. Write down what you notice in a comment in your code.
 
 ```diff
 + Example of console output
